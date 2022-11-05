@@ -1,4 +1,4 @@
-ResultadoRepositorio import ResultadoRepositorio
+from ResultadoRepositorio import ResultadoRepositorio
 from Repositorios.MesaRepositorio import MesaRepositorio
 from Repositorios.CandidatoRepositorio import CandidatoRepositorio
 
